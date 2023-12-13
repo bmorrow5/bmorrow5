@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello World 
 
 I'm Brandon Morrow a Data Scientist with a background in Physics
 "Data holds the answers"
@@ -11,5 +11,4 @@ Physics Undergraduate Degree
 Languages: Python, Java, R, SQL 
 Machine Learning, Data Visualization, Statistical Analysis
 
-### Current Commits:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorrow5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorrow5&theme=dark"/>
