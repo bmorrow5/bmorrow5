@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**bmorrow5/bmorrow5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Brandon Morrow a Data Scientist with a background in Physics
+"Data holds the answers"
 
-Here are some ideas to get you started:
+### Education
+Data Science Masters Student at Johns Hopkins
+Physics Undergraduate Degree
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+Languages: Python, Java, R, SQL 
+Machine Learning, Data Visualization, Statistical Analysis
+
+### Current Commits:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorrow5"/>
