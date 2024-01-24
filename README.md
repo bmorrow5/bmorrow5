@@ -5,8 +5,8 @@ I'm Brandon Morrow a Data Scientist Masters Student at Johns Hopkins University.
 Contained in these repositories are my projects showcasing my Data Science Skills
 
 ### Education
-Masters of Science in Data Science Student at Johns Hopkins University \\
-Bachelor of Science in Physics, Minor Mathematics from Presbyterian College
+Masters of Science in Data Science Student at Johns Hopkins University <br>
+Bachelor of Science in Physics, Minor Mathematics from Presbyterian College <br>
 Bachelor of Arts in History, Minor Military Science from Presbyterian College
 
 ### Technical Skills
