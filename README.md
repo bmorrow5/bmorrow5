@@ -1,6 +1,6 @@
 ### Hello World 
 
-I'm Brandon Morrow a Data Scientist Masters Student at Johns Hopkins University. I currently hold a Bachelor's Degree, and have research experience, in Physics. 
+I'm Brandon Morrow a Data Scientist Masters Student at Johns Hopkins University. I currently have research experience and a Bachelor's Degree in Physics. 
 
 Contained in these repositories are my projects showcasing my Data Science Skills
 
