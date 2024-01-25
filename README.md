@@ -10,7 +10,7 @@ Bachelor of Science in Physics, Minor Mathematics from Presbyterian College <br>
 Bachelor of Arts in History, Minor Military Science from Presbyterian College
 
 ### Technical Skills
-Languages: Python, Java, MATLAB, SQL, R, Tableau, PowerBI, ParaView <br> <br>
+Languages: Python, Java, MATLAB, SQL, R (basic knowledge of R) <br> <br>
 Machine Learning, Statistical Analysis, Data Visualization, Data Structures
 
 ### Projects and Portfolio Products
