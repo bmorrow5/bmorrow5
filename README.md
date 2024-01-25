@@ -28,3 +28,7 @@ Skills: Machine Learning, Statistical Analysis, Data Visualization, Data Structu
    - I created the SQL that creates the database
    - I created the code that pulls the EPA data
 3. Examples of statistical modeling and reporting: https://github.com/bmorrow5/Data-Science-Reports-and-Final-Products
+4. Tableau and Power BI dashboards displaying AirBnB data are located:
+   - https://github.com/bmorrow5/Data-Visualizations/tree/main/Tableau_Airbnb_Dashboard
+   - https://github.com/bmorrow5/Data-Visualizations/tree/main/PowerBI_Airbnb_Dashboard
+My Tableau dashboard can also be viewed on Tableau public: https://public.tableau.com/views/AirBnB_Dashboard_16975302522570/Macro?:language=en-US&:display_count=n&:origin=viz_share_link
