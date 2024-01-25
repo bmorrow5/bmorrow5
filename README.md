@@ -20,6 +20,12 @@ Machine Learning, Statistical Analysis, Data Visualization, Data Structures
    - Uses LSTM Machine Learning to predict future stock prices (further hyper parameter tuning needed depending on time period and interval)
    - Web scrapes the biggest gainers and biggest losers for the day and plots them
    - Web scrapes the sector and industry performances for the day
-2. Examples of statistical modeling and data reports contained within the 
+2. Data Engineering COVID Data database
+   - A group project that pulls COVID data from the CDC, stock data from yahoo, emmissions data from the EPA, and US economic data from the federal government
+   - Pulls data from the four sources and creates a database that will update weekly
+   - I created the automation that updates the database weekly utlizing Airflow (located in airflow_scripts)
+   - I created the SQL that creates the database
+   - I created the code that pulls the EPA data
+3. Examples of statistical modeling and reporting: https://github.com/bmorrow5/bmorrow5/edit/main/README.md
    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorrow5&theme=dark"/>
