@@ -27,5 +27,3 @@ Skills: Machine Learning, Statistical Analysis, Data Visualization, Data Structu
    - I created the SQL that creates the database
    - I created the code that pulls the EPA data
 3. Examples of statistical modeling and reporting: https://github.com/bmorrow5/Data-Science-Reports-and-Final-Products
-   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorrow5&theme=dark"/>
