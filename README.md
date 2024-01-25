@@ -26,6 +26,6 @@ Machine Learning, Statistical Analysis, Data Visualization, Data Structures
    - I created the automation that updates the database weekly utlizing Airflow (located in airflow_scripts)
    - I created the SQL that creates the database
    - I created the code that pulls the EPA data
-3. Examples of statistical modeling and reporting: https://github.com/bmorrow5/bmorrow5/edit/main/README.md
+3. Examples of statistical modeling and reporting: https://github.com/bmorrow5/Data-Science-Reports-and-Final-Products
    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorrow5&theme=dark"/>
