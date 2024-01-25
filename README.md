@@ -20,6 +20,7 @@ Skills: Machine Learning, Statistical Analysis, Data Visualization, Data Structu
    - Uses LSTM Machine Learning to predict future stock prices (further hyper parameter tuning needed depending on time period and interval)
    - Web scrapes the biggest gainers and biggest losers for the day and plots them
    - Web scrapes the sector and industry performances for the day
+   - Utilizes regex and error handling to ensure web scraped data valid
 2. Data Engineering COVID Data database: https://github.com/bmorrow5/Data-Engineering/tree/main/EN.685.648.81.FA23-main 
    - A group project that pulls COVID data from the CDC, stock data from yahoo, emmissions data from the EPA, and US economic data from the federal government
    - Pulls data from the four sources and creates a database that will update weekly
