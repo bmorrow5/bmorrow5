@@ -11,7 +11,7 @@ Bachelor of Arts in History, Minor Military Science from Presbyterian College
 
 ### Technical Skills
 Languages: Python, Java, MATLAB, SQL, R (basic knowledge of R) <br> <br>
-Machine Learning, Statistical Analysis, Data Visualization, Data Structures
+Skills: Machine Learning, Statistical Analysis, Data Visualization, Data Structures
 
 ### Projects and Portfolio Products
 1. Long Short Term Memory Stock Prediction Dashboard: https://github.com/bmorrow5/LSTM-ML-Stock-Dashboard 
