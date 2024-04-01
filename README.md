@@ -22,17 +22,18 @@ Skills: Machine Learning, Statistical Analysis, Data Visualization, Data Structu
    - Web scrapes the sector and industry performances for the day
    - Utilizes regex and error handling to ensure web scraped data valid
 2. Strategic Procurement Optimization System (SPOS): Leveraging Game Theory for Enhanced Supplier Negotiation and Decision Making (Build in progress)
+   - Uses Bayesian Fuzzy Games, Game Theory to automate price negotiations. This uses Bayesian Networks with Fuzzy Mathematics in a game theory standpoint
    - Designing a system to automate the procurement price negotiation process
    - Will leverage supplier offers against one another to get best price
    - Can also host auctions, and will use game thoeretic auction theory
-3. Data Engineering COVID Data database: https://github.com/bmorrow5/Data-Engineering/tree/main/EN.685.648.81.FA23-main 
+4. Data Engineering COVID Data database: https://github.com/bmorrow5/Data-Engineering/tree/main/EN.685.648.81.FA23-main 
    - A group project that pulls COVID data from the CDC, stock data from yahoo, emmissions data from the EPA, and US economic data from the federal government
    - Pulls data from the four sources and creates a database that will update weekly
    - I created the automation that updates the database weekly utlizing Airflow (located in airflow_scripts)
    - I created the SQL that creates the database
    - I created the code that pulls the EPA data
-4. Examples of statistical modeling and reporting: https://github.com/bmorrow5/Data-Science-Reports-and-Final-Products
-5. Tableau and Power BI dashboards displaying AirBnB data are located:
+5. Examples of statistical modeling and reporting: https://github.com/bmorrow5/Data-Science-Reports-and-Final-Products
+6. Tableau and Power BI dashboards displaying AirBnB data are located:
    - https://github.com/bmorrow5/Data-Visualizations/tree/main/PowerBI_Airbnb_Dashboard
    - https://github.com/bmorrow5/Data-Visualizations/tree/main/Tableau_Airbnb_Dashboard <br>
 My Tableau dashboard can also be viewed on Tableau public: https://public.tableau.com/views/AirBnB_Dashboard_16975302522570/Macro?:language=en-US&:display_count=n&:origin=viz_share_link
