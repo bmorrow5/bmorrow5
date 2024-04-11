@@ -24,8 +24,6 @@ Skills: Machine Learning, Statistical Analysis, Data Visualization, Data Structu
 2. Strategic Procurement Optimization System (SPOS): Leveraging Game Theory for Enhanced Supplier Negotiation and Decision Making (Build in progress)
    - Uses Bayesian Fuzzy Games, Game Theory to automate price negotiations. This uses Bayesian Networks with Fuzzy Mathematics in a two-player zero sum mixed strategy game.
    - Designing a system to automate the procurement price negotiation process
-   - Will leverage supplier offers against one another to get best price
-   - Can also host auctions, and will use game thoeretic auction theory
 4. Data Engineering COVID Data database: https://github.com/bmorrow5/Data-Engineering/tree/main/EN.685.648.81.FA23-main 
    - A group project that pulls COVID data from the CDC, stock data from yahoo, emmissions data from the EPA, and US economic data from the federal government
    - Pulls data from the four sources and creates a database that will update weekly
