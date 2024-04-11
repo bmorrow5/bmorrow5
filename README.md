@@ -22,7 +22,7 @@ Skills: Machine Learning, Statistical Analysis, Data Visualization, Data Structu
    - Web scrapes the sector and industry performances for the day
    - Utilizes regex and error handling to ensure web scraped data valid
 2. Strategic Procurement Optimization System (SPOS): Leveraging Game Theory for Enhanced Supplier Negotiation and Decision Making (Build in progress)
-   - Uses Bayesian Fuzzy Games, Game Theory to automate price negotiations. This uses Bayesian Networks with Fuzzy Mathematics in a game theory standpoint
+   - Uses Bayesian Fuzzy Games, Game Theory to automate price negotiations. This uses Bayesian Networks with Fuzzy Mathematics in a two-player zero sum mixed strategy game.
    - Designing a system to automate the procurement price negotiation process
    - Will leverage supplier offers against one another to get best price
    - Can also host auctions, and will use game thoeretic auction theory
