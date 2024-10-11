@@ -21,7 +21,7 @@ Skills: Machine Learning, Statistical Analysis, Data Visualization, Data Structu
    - Web scrapes the biggest gainers and biggest losers for the day and plots them
    - Web scrapes the sector and industry performances for the day
    - Utilizes regex and error handling to ensure web scraped data valid
-2. Strategic Procurement Optimization System (SPOS): Leveraging Game Theory for Enhanced Supplier Negotiation and Decision Making
+2. Strategic Procurement Optimization System (SPOS): Leveraging Game Theory for Enhanced Supplier Negotiation and Decision Making https://github.com/bmorrow5/SPOS 
    - Uses Bayesian Fuzzy Games, Game Theory to automate price negotiations. This uses Bayesian Networks with Fuzzy Mathematics in a two-player zero sum mixed strategy game.
    - Designing a system to automate the procurement price negotiation process
 3. Data Engineering COVID Data database: https://github.com/bmorrow5/Data-Engineering/tree/main/EN.685.648.81.FA23-main 
