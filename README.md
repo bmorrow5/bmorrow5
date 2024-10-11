@@ -1,6 +1,6 @@
 ### About Me 
 
-I'm Brandon Morrow a Data Scientist with a Master's of Data Science from Johns Hopkins University with research experience and a Bachelor's Degree in Physics. <br>
+I'm Brandon Morrow a Data Scientist with a Master's of Data Science from Johns Hopkins University with research experience (and a Bachelor's Degree) in Physics. <br>
 
 Contained in these repositories are my projects showcasing my Data Science Skills
 
@@ -21,7 +21,7 @@ Skills: Machine Learning, Statistical Analysis, Data Visualization, Data Structu
    - Web scrapes the biggest gainers and biggest losers for the day and plots them
    - Web scrapes the sector and industry performances for the day
    - Utilizes regex and error handling to ensure web scraped data valid
-2. Strategic Procurement Optimization System (SPOS): Leveraging Game Theory for Enhanced Supplier Negotiation and Decision Making (In Private Repo)
+2. Strategic Procurement Optimization System (SPOS): Leveraging Game Theory for Enhanced Supplier Negotiation and Decision Making (In Private Repo due to env vars)
    - Uses Bayesian Fuzzy Games, Game Theory to automate price negotiations. This uses Bayesian Networks with Fuzzy Mathematics in a two-player zero sum mixed strategy game.
    - Designing a system to automate the procurement price negotiation process
 4. Data Engineering COVID Data database: https://github.com/bmorrow5/Data-Engineering/tree/main/EN.685.648.81.FA23-main 
