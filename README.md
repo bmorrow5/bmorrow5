@@ -1,6 +1,6 @@
 ### About Me 
 
-I'm Brandon Morrow a Data Scientist with a Master's of Data Science from Johns Hopkins University with research experience (and a Bachelor's Degree) in Physics. <br>
+I'm Brandon Morrow a Senior Full Stack Data Scientist with a Master's of Data Science from Johns Hopkins University. I have a Bachelors Degree in Physics, and am passionate about physics, time series forecasting, machine learning, and game theory. <br>
 
 Contained in these repositories are my projects showcasing my Data Science Skills
 
