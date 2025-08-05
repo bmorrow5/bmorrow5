@@ -1,8 +1,8 @@
 ### About Me 
 
-I'm Brandon Morrow a Senior Full Stack Data Scientist with a Master's of Data Science from Johns Hopkins University. I have a Bachelors Degree in Physics, and am passionate about physics, time series forecasting, machine learning, and game theory. <br>
+I am Brandon Morrow a Senior Data Scientist with a MS in Data Science from Johns Hopkins University. I also have a Bachelors Degree in Physics, and am passionate about physics, optimization, and game theoretic problem solving. I specialize in time series forecasting and am extremely well versed in modern and classical machine learning techniques. <br>
 
-Contained in these repositories are my projects showcasing my Data Science Skills
+Contained in these repositories are old data science projects. 
 
 ### Education
 Masters of Science in Data Science from Johns Hopkins University <br>
@@ -13,7 +13,7 @@ Bachelor of Arts in History, Minor Military Science from Presbyterian College
 Languages: Python, Java, MATLAB, SQL, Bash, R (basic knowledge of R) <br>
 Skills: Machine Learning, Statistical Analysis, Data Visualization, Data Structures
 
-### Projects and Portfolio Products
+#### Projects and Portfolio Products
 1. Long Short Term Memory Stock Prediction Dashboard: https://github.com/bmorrow5/LSTM-ML-Stock-Dashboard 
    - Utilizes the Python Panel package as well as Plotly and HVplot to create a stock dashboard with interactive data visualizations
    - Global filters update plots in real time for a time period and interval
