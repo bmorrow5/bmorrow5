@@ -1,6 +1,6 @@
 ### About Me 
 
-I am Brandon Morrow a Senior Data Scientist with a MS in Data Science from Johns Hopkins University. I also have a Bachelors Degree in Physics, and am passionate about physics, optimization, and game theoretic problem solving. I specialize in time series forecasting and am extremely well versed in modern and classical machine learning techniques. <br>
+I am Brandon Morrow a Senior Data Scientist (ML Engineer) with a MS in Data Science from Johns Hopkins University. I also have a Bachelors Degree in Physics, and am passionate about physics, optimization, and game theoretic problem solving. I specialize in time series forecasting and am extremely well versed in modern and classical machine learning techniques. <br>
 
 Contained in these repositories are old data science projects. 
 
