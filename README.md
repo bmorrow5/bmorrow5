@@ -13,7 +13,7 @@ Bachelor of Arts in History, Minor Military Science from Presbyterian College
 Languages: Python, Java, MATLAB, SQL, Bash, R (basic knowledge of R) <br>
 Skills: Machine Learning, Statistical Analysis, Data Visualization, Data Structures
 
-#### Projects and Portfolio Products
+#### Old Projects and Portfolio Products
 1. Long Short Term Memory Stock Prediction Dashboard: https://github.com/bmorrow5/LSTM-ML-Stock-Dashboard 
    - Utilizes the Python Panel package as well as Plotly and HVplot to create a stock dashboard with interactive data visualizations
    - Global filters update plots in real time for a time period and interval
